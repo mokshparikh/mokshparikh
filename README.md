@@ -8,7 +8,7 @@
 👋 Welcome to my GitHub profile!
 
 
-This is Moksh Parikh, a Final year student at G H Patel College Of Engineering & Technology,  Cvmu University. Currently, I am pursuing a BTech in Computer Science Engineering(IoT).
+Hello I am Moksh Parikh, a Final year student at G H Patel College Of Engineering & Technology,  Cvmu University. Currently, I am pursuing a BTech in Computer Science Engineering(IoT).
 
  I am a Web developer honing my skills in the problem-solving arena. Currently, I'm dedicated to mastering data structures and algorithms.
  I am passionate about building projects that solve meaningful problems and I am always ready to learn something new to push the boundaries of innovation.
